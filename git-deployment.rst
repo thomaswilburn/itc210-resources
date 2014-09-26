@@ -1,6 +1,15 @@
 Deployment with Git
 ===================
 
+We deploy from source control, instead of uploading files individually, for several reasons:
+
+1. It means that our server is always in a known configuration that can be easily re-created from the repo.
+2. It prevents simultaneous editing, where people overwrite each others' changes.
+3. It allows us to quickly roll back changes if something goes wrong.
+4. It comes with a tremendous amount of infrastructure and best practice we can leverage during build processes and review.
+
+It's not hard to get a Git deploy process running, but it does involve a little groundwork. This guide is a short guide to the process, but we'll be covering it in a little more detail in class.
+
 Setup
 -----
 
