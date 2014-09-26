@@ -30,7 +30,7 @@ If you and other person changed the same line, you'll have to determine a winner
 
 <<<<<<<< HEAD
 This is the line or lines currently in master.
-=====
+\=====
 This is the conflicting line you changed in your branch.
 >>>>>>>> LONG_ANNOYING_COMMIT_HASH_STRING
 
