@@ -13,7 +13,7 @@ It's not hard to get a Git deploy process running, but it does involve a little 
 Setup
 -----
 
-First you need to link your server to the GitHub account where your repo is hosted. Follow the instructions on `this page <https://help.github.com/articles/generating-ssh-keys>` to generate an SSH key and add it to your Git credentials. 
+First you need to link your server to the GitHub account where your repo is hosted. Follow the instructions on `this page <https://help.github.com/articles/generating-ssh-keys>`_ to generate an SSH key and add it to your Git credentials. 
 
 You'll also need to create the repository on GitHub that will contain your repo. This needs to happen whether you have files already or not. For the purposes of this assignment, I'm going to assume that your repository is in an account named ``scc-student`` and the repo name is ``itc210-theme``, but these are just examples.
 
