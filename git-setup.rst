@@ -28,10 +28,10 @@ On my branch, now you can do whatever work I want, without worrying about what a
 
 If you and other person changed the same line, you'll have to determine a winner. The conflicted files will be marked in your client, and when you open them in your text editor, you'll see something like this::
 
-<<<<<<<< HEAD
-This is the line or lines currently in master.
-\=====
-This is the conflicting line you changed in your branch.
->>>>>>>> LONG_ANNOYING_COMMIT_HASH_STRING
+  <<<<<<<< HEAD
+  This is the line or lines currently in master.
+  =====
+  This is the conflicting line you changed in your branch.
+  >>>>>>>> LONG_ANNOYING_COMMIT_HASH_STRING
 
 Using your editor, choose which change you want to keep by erasing the others (as well as the conflict markers, like ``<<<<<<< HEAD``). When all the conflict markers are removed, meaning that you've approved the changes you want to keep, the client will show a button allowing you to commit your merge, and then synchronize it up to GitHub. 

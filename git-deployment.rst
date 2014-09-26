@@ -23,7 +23,7 @@ Note that only one person should create the initial repo. Once it's created, eve
 
 Once you have your server linked to your account, you can log in via SSH and clone the GitHub repo. Navigate to your ``wp-content/themes`` folder and type the following command to clone it (for the sample username/repo given above)::
 
-git clone git@github.com:scc-student/itc210-theme.git
+  git clone git@github.com:scc-student/itc210-theme.git
 
 This will clone the repo into a folder named ``itc210-theme``. If you want to clone it into a different folder, type that folder name at the end of the command before pressing enter.
 
@@ -32,6 +32,6 @@ Deployment
 
 Now that your server and GitHub are connected, and the repo is set up, you can deploy to the server. This is easy to do. First, you'll make changes locally, commit them, and sync them up to the GitHub repo. Second, on the server, you will log in, navigate to *inside* the theme directory, and type the following command::
 
-git pull origin master
+  git pull origin master
 
 Piece of cake! This command grabs all changes from the remote repo and fast-forwards your server to match. All changes that are checked in will be replicated on the server. **Do not change files directly**, because this will cause the two to fall out of sync, and you won't be able to easily deploy until we make them match again. You should *only* commit locally and push to GitHub, then pull from there to your staging server.
