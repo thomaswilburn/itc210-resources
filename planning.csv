@@ -1,0 +1,17 @@
+Planning document: Sprint 2,,,,,
+,,,,,
+Task,Estimate,Assigned to,Issue #,Notes,
+Blog post template,4 hrs,McNulty,21,,
+Staff custom post type,8 hrs,Greggs,18,Carried over from previous sprint,
+Research calendar plugins,3 hrs,McNulty,22,,
+Set up CSS grid,5 hours,Freamon,24,,
+Write user documentation for blogging,3 hrs,Carver,25,,
+,,,,,
+Retrospective: Sprint 1,,,,,
+,,,,,
+Task,Estimate,Actual,Assigned to,Issue #,Notes
+Set up SSH/GitHub sync for staging,2 hrs,1 hr,McNulty,2,
+Install WordPress on staging,2 hrs,2 hrs,Freamon,1,
+Add theme stubs to repo,2 hrs,4 hrs,Greggs,3,Some pages still need to be fleshed out
+Research CSS frameworks,4 hrs,6 hrs,"Perlman, Carver",4,Decided to write our own grid
+Set up Grunt automation for theme,8 hrs,9 hrs,Greggs,5,
