@@ -14,6 +14,6 @@ In this guide, we're going to set up a VM on EC2 that hosts WordPress, pretty mu
 
 ## The most important step
 
-The following steps are going to seem like a lot of work. They're not actually that bad, and I'll try to put things into context as we go along. But just in case, here's the most important step of the guide:
+The following steps are going to seem like a lot of work. They're not actually that bad, and I'll try to put things into context as we go along. But just in case, here's the most important step of the guide, which we're going to refer to as "Step Zero."
 
-0. _Don't panic._ Relax. It's just a computer, and everything can be fixed. When you start getting frustrated, take a step away for a few minutes. If you're stuck for a long time, e-mail me. Do not wear yourself out for hours on end trying to bludgeon your way to a solution (it almost never works).
+* **Step 0:** _Don't panic._ Relax. It's just a computer, and everything can be fixed. When you start getting frustrated, take a step away for a few minutes. If you're stuck for a long time, e-mail me. Do not wear yourself out for hours on end trying to bludgeon your way to a solution (it almost never works).
