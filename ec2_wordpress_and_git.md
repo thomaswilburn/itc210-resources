@@ -26,7 +26,7 @@ Assuming you have yourself an AWS account, let's get our server running. Inside 
 
 An "instance" is a single virtual machine, which is created from an "image" that describes its base configuration, like a recipe. Each instance is a "server" running in Amazon's datacenter. Click the button to start the setup process.
 
-![AMI Choices](https://raw.githubusercontent.com/thomaswilburn/itc210-resources/master/images/ami-choices.jpg)
+![AMI Choices](https://raw.githubusercontent.com/thomaswilburn/itc210-resources/master/images/ami-choice.jpg)
 
 The first question you face is which operating system you want to install on your VM. We're going to go with Ubuntu 14.04, which is a stable and common Linux operating system. You can also install other Linux systems, or even Windows, but Ubuntu is a well-known platform, and it'll be easier for you to find help for it.
 
