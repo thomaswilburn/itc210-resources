@@ -11,7 +11,7 @@ Required Materials
 
 There is no textbook for this class. Reading materials will be posted to this repo as needed, either as tutorial texts or links to online resources. For your own part, you will need the following software programs and services:
 
-* A staging server: You will need a virtual private server (VPS) with PHP, MySQL, Git, and SSH access. Do not use so-called "shared hosting", the performance will be sub-par and you will not be able to deploy easily. Dreamhost offers VPS service for $15 a month, but I recommend looking into Linode ($10/month), Digital Ocean ($5/month), or Amazon EC2 (free for a year, varies after that). Again, do not use shared hosting.
+* A staging server: You will need a virtual private server (VPS) with PHP, MySQL, Git, and SSH access. Do not use so-called "shared hosting", the performance will be sub-par and you will not be able to deploy easily. Dreamhost offers VPS service for $15 a month, but I recommend looking into Linode ($10/month), Digital Ocean ($5/month), or Amazon EC2 (free for a year, varies after that). Again, *do not use shared hosting*.
 * A GitHub account: your WordPress theme must be hosted on GitHub, and preferably will be deployed directly from there to your staging server. All members of your team should collaborate on the same repository. You should also have Git/GitHub installed on your development machine.
 * A local PHP/MySQL environment for development. Depending on your computer, you may want to use one of the WAMP/MAMP stacks, or create a Linux virtual machine and work there. The goal is to work locally, then check changes to GitHub, and from there to the staging server. Under no circumstances should you be editing files directly on the remote server.
 * A syntax-highlighting code editor: luckily, you have many free options here, including Komodo, Brackets, Caret, and Notepad++. You may also want to look at paying for a copy of Sublime Text, which is well worth the money.
@@ -19,7 +19,7 @@ There is no textbook for this class. Reading materials will be posted to this re
 Assignments
 -----------
 
-For the most part, your team should work in two-week sprints, as with an Agile workflow. As developers, your work will parallel the designers, and although you do not share assignments you should consider their work an extension of yours. Developers who hang their designers out to dry will suffer penalties. Developer-specific assignments are as follows, although I reserve the right to alter or rearrange them at any time. Individual assignments will be posted with more detail throughout the quarter.
+For the most part, your team should work in one-week sprints, as with an Agile workflow. As developers, your work will parallel the designers, and although you do not share assignments you should consider their work an extension of yours. Developers who hang their designers out to dry will suffer penalties. Developer-specific assignments are as follows, although I reserve the right to alter or rearrange them at any time. Individual assignments will be posted with more detail throughout the quarter, although a rough list follows. All assignments are due by midnight on Friday.
 
 For each individual task within an assignment, create a bug in the issues section of your theme repo, and make sure to close it with references to the relevant commits. Tracking tasks this way will let you better estimate your time, and it will provide me with important information as to who is doing work. If you don't have commits, as far as I'm concerned, you didn't do any work.
 
@@ -28,7 +28,9 @@ Final grades will be based on these assignments for 70% of their total, 20% for 
 Week 1 - Server setup
 #####################
 
-You should have your staging server up and running, your GitHub repo for your theme stubbed out, and a deployment connection made between the two. The theme only needs to include ``style.css`` and ``index.php`` files for now--you'll be filling in the rest as you go. 
+You should have your staging server up and running, your GitHub repo for your theme stubbed out, and a deployment connection made between the two. The theme only needs to include ``style.css`` and ``index.php`` files for now--you'll be filling in the rest as you go.
+
+*Due: Friday, Oct. 2*
 
 Week 2 - Requirements document
 ##############################
@@ -68,7 +70,7 @@ Update your unstyled theme to match the colors and textures of the visual design
 Week 9 - Visual match
 #####################
 
-Your designers are required to have page templates ready, which means you are too. At this point, your site should be in code freeze: the rest of the time after this should be spent on testing, bug fixes, and deployment.
+Your designers are required to have page templates ready, which means you are too. After this point, your site should be in code freeze: the rest of the time after this should be spent on testing, bug fixes, and deployment.
 
 Week 12 - Presentation
 ######################
