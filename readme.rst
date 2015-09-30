@@ -28,7 +28,7 @@ Final grades will be based on these assignments for 70% of their total, 20% for 
 Week 1 - Server setup
 #####################
 
-You should have your staging server up and running, your GitHub repo for your theme stubbed out, and a deployment connection made between the two. The theme only needs to include ``style.css`` and ``index.php`` files for now--you'll be filling in the rest as you go.
+You should have your staging server up and running, your GitHub repo for your theme stubbed out, and a deployment connection made between the two. The theme only needs to include ``style.css`` and ``index.php`` files for now--you'll be filling in the rest as you go. Email your repo URL and development server address to me via scc@thomaswilburn.net.
 
 *Due: Friday, Oct. 2*
 
