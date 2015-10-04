@@ -35,7 +35,7 @@ You should have your staging server up and running, your GitHub repo for your th
 Week 2 - Requirements document
 ##############################
 
-Created with your designers, this document will lay out the basic outline of intended work for your site, including extra functionality that will be handled with plugins, browser compatibility, and user stories. See the sample `requirements document <https://github.com/thomaswilburn/itc210-resources/blob/master/requirements.rst>`_ (which doubles as a guide to requirements docs) for more information.
+Created with your designers, this document will lay out the basic outline of intended work for your site, including extra functionality that will be handled with plugins, browser compatibility, and user stories. See the sample `requirements document <https://github.com/thomaswilburn/itc210-resources/blob/master/requirements.rst>`_ (which doubles as a guide to requirements docs) for more information. You should also file your first set of GitHub issues based on these requirements, laying out the first few steps that you are taking and assigning them to your team members. Once those tasks are complete, close the issues.
 
 *Due: Friday, Oct. 9*
 
