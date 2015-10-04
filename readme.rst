@@ -35,7 +35,9 @@ You should have your staging server up and running, your GitHub repo for your th
 Week 2 - Requirements document
 ##############################
 
-Created with your designers, this document will lay out the basic outline of intended work for your site, including extra functionality that will be handled with plugins, browser compatibility, and user stories.
+Created with your designers, this document will lay out the basic outline of intended work for your site, including extra functionality that will be handled with plugins, browser compatibility, and user stories. See the sample `requirements document <https://github.com/thomaswilburn/itc210-resources/blob/master/requirements.rst>`_ (which doubles as a guide to requirements docs) for more information.
+
+*Due: Friday, Oct. 9*
 
 Week 3 - Information architecture
 #################################
