@@ -44,6 +44,8 @@ Week 3 - Information architecture
 
 At this point, you should understand the ontology of your site. With this information, make sure that your theme matches its organization: menus should lead to placeholder pages, and the template heirarchy should reflect the basic structure in which your site is constructed. You are not required to have this in its final state, but I should see evidence of groundwork being laid.
 
+*Due: Friday, Oct. 16*
+
 Week 4 - Plugin documentation and configuration
 ###############################################
 
