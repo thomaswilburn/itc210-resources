@@ -49,7 +49,7 @@ At this point, you should understand the ontology of your site. With this inform
 Week 4 - Plugin documentation and configuration
 ###############################################
 
-As your designers work on wireframes, you will pick out the plugins that you need to achieve their functionality requirements, install them, and write up documentation on the install/config process for your end-user. Extra points for using `Composer <http://getcomposer.org>`_ and `WPackagist <http://wpackagist.org/>`_ to install, instead of doing so manually.
+As your designers work on wireframes, you will pick out the plugins that you need to achieve their functionality requirements, install them, and write up documentation on the install/config process for your end-user. Add this information to your theme's wiki, and also as notes in the theme metadata comment block at the top of ``style.css``. Include links to their home page and support documents.
 
 Week 5 - Information architecture 2
 ###################################
