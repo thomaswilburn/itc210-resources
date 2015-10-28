@@ -56,7 +56,9 @@ As your designers work on wireframes, you will pick out the plugins that you nee
 Week 5 - Information architecture 2
 ###################################
 
-In order to wireframe effectively, you will need to start putting in placeholder content and check to see that your organization holds up. For this sprint, I want to start seeing template partials and sidebars added to the page, with no shared elements being duplicated between templates.
+In order to wireframe effectively, you will need to start putting in placeholder content and check to see that your organization holds up. For this sprint, I want to start seeing template partials and sidebars added to the page, with no shared elements being duplicated between templates. Other shared template sections, such as blog post excerpts, should also be moved into their own file and loaded via `get_template_part`. The elements you place on the page do not have to be styled at all, but they should have some sort of indicator so that I can "see" them on the staging server, such as their file name in the HTML.
+
+*Due: Friday, Oct. 30*
 
 Week 6 - Unstyled theme
 #######################
