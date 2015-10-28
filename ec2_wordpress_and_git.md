@@ -74,6 +74,8 @@ Your username for the server is `ubuntu`. The keyfile will be used instead of a 
 
 On Linux or OS X, the computer comes with an SSH client, and you don't need to download anything. Just open up your Terminal app, navigate to the directory where you saved your keyfile, and run the following command: `ssh -i keypair_name.pem ubuntu@XXX.XXX.XXX.XXX`, replacing the `XXX` portion with your server's IP address. At that point, you should be connected to the remote machine, and you'll see the message of the day (pretty much like the view above for Windows users, but obviously in a different-looking shell).
 
+You will probably get an error the first time telling you that the permissions on your key are too permissible. To fix this, run the following code to make your key read-only: `chmod 400 keypair_name.pem`.
+
 ## Server installation and config
 
 Once you're logged in, we need to install some software. Your VM starts as a blank slate - Amazon doesn't assume that you want to serve web sites with it, or what kind of technology you want to use. That makes sense, because people do in fact use EC2 for all kinds of purposes. But it does mean that the out-of-the-box experience is not great.
