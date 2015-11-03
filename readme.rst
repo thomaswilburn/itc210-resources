@@ -63,7 +63,9 @@ In order to wireframe effectively, you will need to start putting in placeholder
 Week 6 - Unstyled theme
 #######################
 
-With wireframes complete, you should be able to duplicate their basic arrangement in the browser. Don't worry about colors or exact layout, but the flavor of the page should be there and it should match the mocks on desktop. All basic functionality and navigation should exist.
+With wireframes complete, you should be able to duplicate their basic arrangement in the browser. Don't worry about colors or exact layout, but the flavor of the page should be there and it should match the mocks on desktop. All basic functionality and navigation should exist. Images should have placeholders. Drop-down menus should work. Plugins should be plugged in. Lorem content should fill your templates like water fills a Bruce Lee metaphor.
+
+*Due: Friday, Nov. 6*
 
 Week 7 - Responsiveness
 #######################
