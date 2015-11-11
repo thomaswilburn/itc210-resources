@@ -70,17 +70,23 @@ With wireframes complete, you should be able to duplicate their basic arrangemen
 Week 7 - Responsiveness
 #######################
 
-If you started with a decent grid, this work may already be done. At the end of this week, your site should be able to match the wireframes on mobile as well as desktop, in terms of physical arrangement and basic functionality.
+If you started with a decent grid, this work may already be done. At the end of this week, your site should be able to match the wireframes on mobile as well as desktop, in terms of physical arrangement and basic functionality. Use at least one breakpoint for mobile, if not an additional for tablets and small desktop screens.
+
+*Due: Friday, Nov. 13*
 
 Week 8 - Color palette
 ######################
 
 Update your unstyled theme to match the colors and textures of the visual design. Load any webfonts that may be required. Produce a list of missing assets that your designers need to provide.
 
+*Due: Friday, Nov. 20*
+
 Week 9 - Visual match
 #####################
 
 Your designers are required to have page templates ready, which means you are too. After this point, your site should be in code freeze: the rest of the time after this should be spent on testing, bug fixes, and deployment.
+
+*Due: Friday, Nov. 27*
 
 Week 12 - Presentation
 ######################
