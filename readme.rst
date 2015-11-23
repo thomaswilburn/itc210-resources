@@ -86,7 +86,7 @@ Week 9 - Visual match
 
 Your designers are required to have page templates ready, which means you are too. After this point, your site should be in code freeze: the rest of the time after this should be spent on testing, bug fixes, and deployment.
 
-*Due: Friday, Nov. 27*
+*Due: Friday, Dec. 4*
 
 Week 12 - Presentation
 ######################
