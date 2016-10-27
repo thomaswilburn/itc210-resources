@@ -95,7 +95,7 @@ Once it finishes, you should be able to navigate to your server in a web browser
 
 We have a couple more things that we need to do before we can close out the command line. First of all, we need to create your MySQL database, which is pretty easy to do from the command line. 
 
-Remember that root password that it asked you to provide during the setup? Let's use it now. Type the following command and hit enter: `msyql -u root -p`. Type the MySQL root password when it asks. Once in the MySQL command line, create the database with the following SQL command: `CREATE DATABASE wordpress;`. Then hit Ctrl-C to exit the MySQL shell.
+Remember that root password that it asked you to provide during the setup? Let's use it now. Type the following command and hit enter: `mysql -u root -p`. Type the MySQL root password when it asks. Once in the MySQL command line, create the database with the following SQL command: `CREATE DATABASE wordpress;`. Then hit Ctrl-C to exit the MySQL shell.
 
 Next, we need to open the web directory up so that you can upload WordPress. By default, Ubuntu's Apache server puts all web files in `/var/www/html`, but that folder is owned by the `root` user, and you can't upload there. Change ownership to your user by running this command: `sudo chown ubuntu /var/www/html -R`.
 
